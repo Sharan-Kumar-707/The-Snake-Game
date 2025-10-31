@@ -1,0 +1,55 @@
+# Snake Game
+
+## About
+
+A classic Snake game made using Python Turtle.
+Built to sharpen my logic and understand how simple games work from scratch — no fancy libraries, just clean code and fun movement.
+
+## Features
+
+* Smooth snake movement
+* Growing tail after eating food
+* Score tracking
+* Game over detection
+* Simple and minimal look
+
+## Controls
+
+* Move Up → `Up Arrow`
+* Move Down → `Down Arrow`
+* Move Left → `Left Arrow`
+* Move Right → `Right Arrow`
+
+## How to Play
+
+1. Clone the repo
+
+   ```bash
+   git clone https://github.com/Sharan-Kumar-707/The-Snake-Game.git
+   ```
+2. Open the folder
+
+   ```bash
+   cd snake-game
+   ```
+3. Run the game
+
+   ```bash
+   python main.py
+   ```
+4. Eat the food, grow longer, and avoid hitting yourself!
+
+## Built With
+
+* Python
+* Turtle Graphics
+
+## Future Plans
+
+* Add sound effects
+* Improve visuals
+* Add levels and speed increase
+
+## Made By
+
+**Sharan**
